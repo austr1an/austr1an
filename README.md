@@ -3,11 +3,11 @@
 <img src="https://komarev.com/ghpvc/?username=austr1an" alt="my github profile views" />
 
 Hey there, here is a little introduction to my profile.
-I'm a teen french developer making things sometimes on Github. Some of my work is in private so you may not see it in my repos, but it shows up in my contributions count.
+I'm a teen french developer making things sometimes on Github. Some of my work is in private so you may not see it in my repos, but it shows up in my contribution count.
 
 ### Little story of my dev life
 
-Years ago, I accidentally discovered we could create Discord bots. So I decided to learn [discord.js](https://github.com/discordjs/discord.js) and create my first bot. I finally created [Morpy](https://github.com/morpybot) in 2019, a minigames bot, and still today it works. When I write these lines, it has more than 1000 servers and about 100,000 played games. By the way, Morpy is verified.
+Years ago, I accidentally discovered Discord "custom" bots. So I decided to learn [discord.js](https://github.com/discordjs/discord.js) and create my first bot. I finally created [Morpy](https://github.com/morpybot) in 2019, a minigames bot, and still today it works. When I write these lines, it has more than 1000 servers and about 100,000 played games. By the way, Morpy is verified.
 
 Also, I started to learn Java (to make Minecraft plugins), React, TS but never finished these learnings (also I didn't really had any use case for these languages lol).
 Though I know SQL and a bit of C++.
@@ -26,4 +26,6 @@ I'd say that I'm quite experienced in Javascript, but I stay an amateur. really.
   <img src="/dunning_kruger.png" alt="Dunning Kruger effect" style="width: 50%;" />
 </a>
 
-september 2022
+[![Florian's GitHub stats](https://github-readme-stats.vercel.app/api?username=austr1an&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+Updated in september 2022
